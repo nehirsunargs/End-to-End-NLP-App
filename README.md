@@ -1,4 +1,4 @@
-# Headline Source Classifier
+# News Headline Source Classifier
 
 This project builds a **binary text classification model** that distinguishes between **Fox News** and **NBC** headlines using traditional machine learning methods. It covers the full ML pipeline: **data scraping, cleaning, feature engineering, model selection, evaluation, and deployment.**
 
